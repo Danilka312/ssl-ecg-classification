@@ -1,0 +1,12 @@
+=== TEST METRICS ===
+Total test beats=2038
+Accuracy=0.825
+Precision(macro)=0.466
+Recall(macro)=0.378
+F1(macro)=0.399
+Confusion Matrix:
+[[1595   34    0    5    1]
+ [  92    2   33    0    1]
+ [ 171    0   27    0    0]
+ [   2    0    0    0    0]
+ [   0    0    0   18   57]]
